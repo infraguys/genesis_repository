@@ -1,0 +1,17 @@
+{
+    "project": {
+        "name": "Genesys Repository",
+        "package_name": "genesis_repository",
+        "description": "Genesis Repository Element",
+        "summary": "Genesis Repository Element"
+    },
+    "author": {
+        "name": "Genesis Corporation",
+        "email": "eugene@frolov.net.ru"
+    },
+    "template_info": {
+        "name": "py_element",
+        "version": "1.0.0",
+        "template_file_name": "py_element.settings.json"
+    }
+}
